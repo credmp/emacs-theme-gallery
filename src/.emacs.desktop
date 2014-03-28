@@ -1,0 +1,107 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Mar 28 08:18:09 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.50.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21301 8753 311120 0) (desktop . "206") "arjen@Arjens-MacBook-Pro.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-12-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (foreground-color . "#dcdccc") (background-color . "#3f3f3f") (line-spacing) (left-fringe . 7) (right-fringe . 7) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (fullscreen . fullboth) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "white") (environment) (powerline-cache . "Unprintable entity") (persp-modestring "[" "main" "]") (persp-recursive) (persp-last) (persp-curr . [cl-struct-perspective "main" ("Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity" "Unprintable entity") nil nil nil "Unprintable entity"]) (perspectives-hash . "Unprintable entity") (frameset--id . "065D-FC3D-7CE5-778B") (frameset--mini t . t) (height . 56) (width . 203) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 0) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "Arjens-MacBook-Pro.local") (explicit-name) (tool-bar-position . top)) ((min-height . 8) (min-width . 30) (min-height-ignore . 4) (min-width-ignore . 12) (min-height-safe . 2) (min-width-safe . 6) (min-pixel-height . 128) (min-pixel-width . 210) (min-pixel-height-ignore . 64) (min-pixel-width-ignore . 84) (min-pixel-height-safe . 32) (min-pixel-width-safe . 42)) hc (pixel-width . 1436) (pixel-height . 880) (total-width . 205) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (vc (pixel-width . 715) (pixel-height . 880) (total-width . 102) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 715) (pixel-height . 432) (total-width . 102) (total-height . 27) (normal-height . 0.5) (normal-width . 1.0) (buffer "main.cc" (selected) (hscroll . 0) (fringes 7 7 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 5983) (start . 5508))) (hc (last . t) (pixel-width . 715) (pixel-height . 448) (total-width . 102) (total-height . 28) (normal-height . 0.5) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 358) (pixel-height . 448) (total-width . 51) (total-height . 28) (normal-height . 1.0) (normal-width . 0.5) (buffer "core.clj" (selected) (hscroll . 0) (fringes 7 7 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 1001) (start . 787))) (leaf (last . t) (pixel-width . 357) (pixel-height . 448) (total-width . 51) (total-height . 28) (normal-height . 1.0) (normal-width . 0.5) (buffer "server.js" (selected . t) (hscroll . 0) (fringes 7 7 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 672) (start . 390))))) (vc (last . t) (pixel-width . 721) (pixel-height . 880) (total-width . 103) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 721) (pixel-height . 432) (total-width . 103) (total-height . 27) (normal-height . 0.5) (normal-width . 1.0) (buffer "hackney_pool.erl" (selected) (hscroll . 0) (fringes 7 7 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 7397) (start . 7397))) (leaf (last . t) (pixel-width . 721) (pixel-height . 448) (total-width . 103) (total-height . 28) (normal-height . 0.5) (normal-width . 1.0) (buffer "main.cc" (selected) (hscroll . 0) (fringes 7 7 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 5508) (start . 5508))))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("erlang" "js2" "clojure"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/Development/emacs-themes-gallery/src/" "/Users/arjen/.emacs.d/init.el" "~/Development/emacs-themes-gallery/src/" "/Users/arjen/Development/emacs-themes-gallery/src/Bootstrap.java"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/arjen/Development/emacs-themes-gallery/src/server.js"
+  "server.js"
+  'js2-mode
+  '(company-mode linum-mode)
+  672
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/arjen/Development/emacs-themes-gallery/src/core.clj"
+  "core.clj"
+  'clojure-mode
+  '(company-mode linum-mode)
+  1001
+  '(1190 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (truncate-lines . t)))
+
+(desktop-create-buffer 206
+  "/Users/arjen/Development/emacs-themes-gallery/src/main.cc"
+  "main.cc"
+  'c++-mode
+  '(abbrev-mode company-mode linum-mode)
+  5983
+  '(502 nil)
+  nil
+  nil
+  '((tab-width . 8) (indent-tabs-mode . t) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/arjen/Development/emacs-themes-gallery/src/hackney_pool.erl"
+  "hackney_pool.erl"
+  'erlang-mode
+  '(company-mode linum-mode)
+  7397
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/arjen/Development/emacs-themes-gallery/src/dirty.rb"
+  "dirty.rb"
+  'ruby-mode
+  '(company-mode linum-mode inf-ruby-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/arjen/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(highlight-parentheses-mode rainbow-delimiters-mode company-mode linum-mode)
+  19911
+  '(19739 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  nil
+  "src"
+  'dired-mode
+  '(company-mode linum-mode)
+  558
+  '(nil nil)
+  t
+  '("/Users/arjen/Development/emacs-themes-gallery/src/")
+  nil)
+
+(desktop-create-buffer 206
+  "/Users/arjen/Development/emacs-themes-gallery/src/Bootstrap.java"
+  "Bootstrap.java"
+  'java-mode
+  '(abbrev-mode company-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
